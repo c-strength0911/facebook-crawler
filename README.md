@@ -20,3 +20,6 @@ puppeteer, xlsx을 이용해 페이스북 페이지를 크롤링하고 엑셀로
 EMAIL=  //페이스북 로그인 아이디
 PASSWORD = //페이스북 로그인 비밀번호
 ~~~
+
+![gif1](https://user-images.githubusercontent.com/57119447/143169891-ef21e4f4-b91e-4511-bcf8-ad6554d205d3.gif)
+![gif2](https://user-images.githubusercontent.com/57119447/143169907-ecc5768b-ec74-49c6-94c4-a1666bece748.gif)
